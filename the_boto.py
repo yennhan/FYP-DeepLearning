@@ -26,7 +26,7 @@ def play_sound():
 while True:
     import pyrebase
     config = {
-        "apiKey": "AIzaSyC6nWkX9d_wbhd14BJfVibFrGfnkZFiXGs",
+        
         "authDomain": "minimumviableproduct-f493e.firebaseapp.com",
         "databaseURL": "https://minimumviableproduct-f493e.firebaseio.com",
         "storageBucket": "gs://minimumviableproduct-f493e.appspot.com",
